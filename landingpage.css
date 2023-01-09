@@ -1,0 +1,50 @@
+body{
+    padding: 20px;
+}
+
+h1{
+    
+}
+
+h2{
+   color:#F9FAF8;
+   font-size: 48px;
+   font-weight: bold;
+}
+.infoheader{
+    font-size:36px;
+    color:#1F2937;
+    font-weight: bold;
+}
+
+.headerul{
+    font-size:18px;
+    color:#E5E7EB;
+}
+
+.body{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+
+.header{
+    display:flex;
+}
+
+.header{
+    background-color: #1F2937;  
+}
+.quote{
+    background-color:#E5E7EB;
+}
+.calltoaction{
+    background-color:#3882F6;
+
+}
+.footer{
+    background-color: #1F2937;
+}
